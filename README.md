@@ -1,6 +1,4 @@
-Hello! My name is Summer Will. I am a senior at Pomona College studying mathematics, with a focus on statistics. I have a passion for analytics consulting and I aspire to be a pioneer in digital healthcare efficiency. 
-
-Summer-Will-College-Portfolio is a collection of my life's work in mathematics, data science, and writing. Topics include: 
+Summer-Will-Portfolio includes topics in:
 
 (mathematics)
 - linear algebra
